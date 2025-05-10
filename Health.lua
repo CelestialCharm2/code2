@@ -1,0 +1,1 @@
+--easy way to remove health from players
